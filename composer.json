@@ -1,0 +1,21 @@
+{
+    "name": "teertz/shortlink",
+    "description": "Generating a short-link by id",
+    "keywords": ["shortlink", "generate"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chukhan Sergei",
+            "email": "chuhan.sergey@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Teertz\\Shortlink\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
