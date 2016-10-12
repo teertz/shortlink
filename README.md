@@ -10,7 +10,7 @@ The generated link is like: `http://example.com/abdg`;
 
 To get started with Teertz Shortlink, add to your `composer.json` file as a dependency:
 
-    composer require teertz/shorltink
+    composer require teertz/shortlink
 
 #### Get the full path
 ```php
