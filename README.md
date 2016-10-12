@@ -28,7 +28,7 @@ class SomeClass
         // output 'http://example.com/aaaa';
 
         $shortlink = (new Shortlink('http://example.com'))->get(4);
-        //output 'http://example.com/aaad';
+        // output 'http://example.com/aaad';
 
         /* some work after */
     
